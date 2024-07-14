@@ -1,6 +1,4 @@
-# Functional-Programming:
-This course gives students the conceptual background necessary to construct and analyze programs, which includes specifying computations, understanding evaluation models, and using major programming language constructs (functions and procedures, conditionals, recursion and looping, scoping and environments, compound data, side effects, higher-order functions and functional programming, and object-oriented programming). It emphasizes key issues that arise in programming and in computation in general, including time and space complexity, choice of data representation, and abstraction management. This course is intended for students with some programming background who want a deeper understanding of the conceptual issues involved in computer programming. All tests and make files were provided.
-# Assignments: Completed problems from Structure and Interpretation of Computer Programs (SICP)
+# Labs: Completed problems from Structure and Interpretation of Computer Programs (SICP)
 - # lab1: Evaluation, Recursion
 - SICP problems: 1.3, 1.4, 1.5, 1.6, 1.9, 1.11, 1.12
 - Mutual, Structural, and Genrative Recusion
